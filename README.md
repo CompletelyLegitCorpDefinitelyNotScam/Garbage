@@ -1,2 +1,2 @@
-# BedTrap-addon
-The best paid (now free) meteor addon ngl!!!
+# Garbage-addon
+The best paid (now free) malware!!!
